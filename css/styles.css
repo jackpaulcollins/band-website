@@ -16,3 +16,8 @@ img {
   float: right;
   background-color: #C9DBFF;
 }
+
+.column {
+  width: 300px;
+  float: right;
+}
