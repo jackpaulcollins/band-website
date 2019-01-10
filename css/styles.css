@@ -20,4 +20,18 @@ img {
 .column {
   width: 300px;
   float: right;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.bio {
+  border: 2px solid black;
+  padding: 4px;
+  margin-top: 600px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color: grey;
+  color: white;
+
 }
